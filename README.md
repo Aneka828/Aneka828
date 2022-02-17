@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aneka828
 - 👀 I’m interested in hiking, trekking, alpinism, rock climbing
-- 🌱 I’m currently learning HTML, CSS, JS, SQL, API
+- 🌱 I’m currently learning HTML, CSS, JS, SQL, API, JAVA
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: aneka_8@mail.ru
 
